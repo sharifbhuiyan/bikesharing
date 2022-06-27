@@ -72,7 +72,7 @@ The deployed project file is accessible at
 - And also weekend rides are pick from 10 to 7.
 	
 ## Summary:
-From this project analysis of activity of the bike sharing in NYC during the month of August 2019 is pick. and most of the rides remain active in Manhattan Island. So, the conclusion of the project is that as a alternative of transportation for cummuting workers Bike service is mostly preferable one. 
+<p align="justify"> From this project analysis of activity of the bike sharing in NYC during the month of August 2019 is pick. and most of the rides remain active in Manhattan Island. So, the conclusion of the project is that as a alternative of transportation for cummuting workers Bike service is mostly preferable one. <p> 
 
 
 
