@@ -17,14 +17,15 @@
 - Data Source: [ Citi Bike Data](https://ride.citibikenyc.com/system-data), [ 201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)  	
 - Software: Jupyter Notebook, Tableau Public 2022.1
 
-# Results
+## Results:
 The deployed project file is accessible at
-	-  [ NYC_Citibike_Challenge.ipynb](https://github.com/sharifbhuiyan/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb), Tableau Analysis [ link to dashboard]()  	
+	-  [ NYC_Citibike_Challenge.ipynb](https://github.com/sharifbhuiyan/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb), Tableau Analysis [ link to dashboard](https://public.tableau.com/app/profile/sharif.a.bhuiyan/viz/NYC_bikesharing_16562915535850/Story1?publish=yes)  	
  
 	
 
 
-## **<h1 align="justify"> New York Citi Bike data visualizations for August 2019  **
+
+### **<h1 align="justify"> New York Citi Bike data visualizations for August 2019**
 	
 
 <p align="center">
@@ -65,7 +66,8 @@ The deployed project file is accessible at
 	
 <p align="center">
   <img width="600" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/hourly_trip.png
-</p>  
+</p>
+	
 - Most weekday rides are around 7 to 9 and 5 to 7.
 - And also weekend rides are pick from 10 to 7.
 	
