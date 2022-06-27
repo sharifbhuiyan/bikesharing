@@ -25,9 +25,26 @@
 
 ## **<h1 align="justify"> New York Citi Bike data visualizations for August 2019  **
 	
-- Streets View :
+
 <p align="center">
-  <img width="800" src=https://github.com/sharifbhuiyan/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/1.%20streets_view.png
+  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/story.png
 </p>  
   
+<p align="center">
+  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/peak_month.png
+</p>  
+
+<p align="center">
+  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/checkout_users.png
+</p>  
+	
+<p align="center">
+  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/checkout_gender.png
+</p>  
+	
+<p align="center">
+  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/hourly_trip.png
+</p>  
+
+	
 
