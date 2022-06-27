@@ -19,7 +19,7 @@
 
 ## Results:
 The deployed project file is accessible at
-	-  [ NYC_Citibike_Challenge.ipynb](https://github.com/sharifbhuiyan/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb), Tableau Analysis [ link to dashboard](https://public.tableau.com/app/profile/sharif.a.bhuiyan/viz/NYC_bikesharing_16562915535850/Story1?publish=yes)  	
+	-  Tableau Analysis [ link to dashboard](https://public.tableau.com/app/profile/sharif.a.bhuiyan/viz/NYC_bikesharing_16562915535850/Story1?publish=yes),	 github file [ NYC_Citibike_Challenge.ipynb](https://github.com/sharifbhuiyan/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
  
 	
 
